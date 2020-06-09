@@ -1,0 +1,4 @@
+The <Scared> Cat Ran From The Terrifying Dog
+A String Is A Line Of <Words>
+A Boolean Is True Or <False>
+Integars Are <Whole> Numbers
