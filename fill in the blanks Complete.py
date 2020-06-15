@@ -19,9 +19,9 @@ for line in file:
     if guess.lower() == word.lower():
 #if their guess is equal to the value before the ---- it will pass as correct
         print("Correct")
-        score = +1
+        score += 1
 #Adds a point onto their score and prints it out
         print(score)
     else:
-        print("incorrect The answer was"+word)
+        print("incorrect The answer was "+word)
 #this will tell them they got it wrong and shows the answer
